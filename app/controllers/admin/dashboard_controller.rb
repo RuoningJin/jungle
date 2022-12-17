@@ -1,4 +1,7 @@
 class Admin::DashboardController < ApplicationController
+
+  before_action :authorize
+
   def show
     @products = Product.order(id: :desc).all
     @product_count = @products.count
