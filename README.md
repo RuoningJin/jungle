@@ -4,9 +4,9 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 
 ## Final Product
 
-!["screenshot of the header"](https://github.com/RuoningJin/scheduler/blob/main/docs/Screen%20Shot%202022-12-08%20at%201.55.56%20AM.png?raw=true)
-!["screenshot of home page"](https://github.com/RuoningJin/scheduler/blob/main/docs/Screen%20Shot%202022-12-08%20at%201.56.18%20AM.png?raw=true)
-!["screenshot of cart"](https://github.com/RuoningJin/scheduler/blob/main/docs/Screen%20Shot%202022-12-08%20at%201.56.18%20AM.png?raw=true)
+!["screenshot of the header"](https://github.com/RuoningJin/jungle/blob/master/docs/Screen%20Shot%202023-01-04%20at%204.35.43%20PM.png?raw=true)
+!["screenshot of home page"](https://github.com/RuoningJin/jungle/blob/master/docs/Screen%20Shot%202023-01-04%20at%204.35.40%20PM.png?raw=true)
+!["screenshot of cart"](https://github.com/RuoningJin/jungle/blob/master/docs/Screen%20Shot%202023-01-04%20at%204.36.06%20PM.png?raw=true)
 
 ## Setup
 
