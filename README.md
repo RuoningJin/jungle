@@ -2,6 +2,12 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
+## Final Product
+
+!["screenshot of the header"](https://github.com/RuoningJin/scheduler/blob/main/docs/Screen%20Shot%202022-12-08%20at%201.55.56%20AM.png?raw=true)
+!["screenshot of home page"](https://github.com/RuoningJin/scheduler/blob/main/docs/Screen%20Shot%202022-12-08%20at%201.56.18%20AM.png?raw=true)
+!["screenshot of cart"](https://github.com/RuoningJin/scheduler/blob/main/docs/Screen%20Shot%202022-12-08%20at%201.56.18%20AM.png?raw=true)
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
